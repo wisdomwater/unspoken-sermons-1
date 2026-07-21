@@ -1,4 +1,4 @@
-# Preface
+## Preface
 
 There are some Christian writers who primarily instruct the mind. There are others who stir the emotions. George MacDonald does something rarer. He awakens the heart to see God more clearly.
 
