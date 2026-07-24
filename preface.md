@@ -1,4 +1,4 @@
-# Preface
+## Preface
 
 My introduction to George MacDonald came through C. S. Lewis. Long before I had read a single page of MacDonald himself, I encountered him as Lewis's wise guide in *The Great Divorce*. Lewis spoke of him with such affection and reverence that I could not help wondering who this Scottish preacher was whose influence seemed to echo so deeply through Lewis's imagination. That curiosity eventually led me to MacDonald's own writings, and I discovered that the guide Lewis met in his story had become a guide for countless readers in the real world as well.
 
